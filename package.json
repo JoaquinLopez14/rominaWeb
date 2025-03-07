@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://joaquinlopez14.github.io/rominaweb",
+  "homepage": "https://joaquinlopez14.github.io/rominaWeb",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
